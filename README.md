@@ -87,7 +87,7 @@ let countries = ['Japan', 'China', 'America', 'Spain', 'Germany'];
 <br>
 
 ## 問題６
-filterメソッドを用いて、変数「words」に格納されている値のうち、
+filterメソッドを用いて、変数「words」に格納されている値のうち、  
 7文字以上の単語のみからなる新しい配列を作成し、コンソールに表示させて下さい
 ```
 let words = [

@@ -1,0 +1,58 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 2;
+}
+
+li {
+    list-style-type: disc;
+    padding: 6px 0;
+}
+
+.button {
+    width: 180px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+    background-color: #007bff;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    transition: .5s ease;
+}
+
+.button:hover {
+    opacity: .5;
+}
+
+.mt-1 {
+    margin-top: 5px;
+}
+
+.mt-2 {
+    margin-top: 10px;
+}
+
+.mt-3 {
+    margin-top: 15px;
+}
+
+.mt-4 {
+    margin-top: 20px;
+}
+
+.mt-5 {
+    margin-top: 25px;
+}

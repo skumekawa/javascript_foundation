@@ -3,8 +3,6 @@
 let sports = ['soccer', 'baseball', 'tennis', 'basketball'];
 
 // 以下に問題１の回答を記述して下さい
-console.log('test');
-console.log(sports);
 
 
 /* 問題２ */
@@ -87,3 +85,23 @@ let words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
 
 /* 問題７ */
 // 以下に問題７の回答を記述して下さい
+
+
+/*
+ * ここからJavascript応用
+ */
+
+// 以下に問題１の回答を記述して下さい
+
+
+
+
+
+
+// 以下に問題２の回答を記述して下さい
+
+
+
+
+
+// 以下に問題３の回答を記述して下さい

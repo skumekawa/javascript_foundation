@@ -1,4 +1,6 @@
-# Javascript基礎課題
+# Javascript課題
+
+## Javascript 基礎
 
 この課題では、主にJavascript基礎の理解度チェックを行います。  
 分からない問題が出てきた場合には、下記項目を復習してみましょう。  
@@ -8,14 +10,14 @@
 - if文
 - for文
 
-## 問題１
+### 問題１
 下記の配列から「tennis」を取得し、コンソール上に表示して下さい
 ```
 let sports = ['soccer', 'baseball', 'tennis', 'basketball'];
 ```
 <br>
 
-## 問題２
+### 問題２
 下記のオブジェクトから「men」を取得し、コンソール上に表示して下さい
 ```
 let person = {
@@ -27,7 +29,7 @@ let person = {
 ```
 <br>
 
-## 問題３
+### 問題３
 下記の配列・オブジェクトから「Jiro」を取得し、コンソール上に表示して下さい
 ```
 let people1 = [
@@ -47,7 +49,7 @@ let people1 = [
 ```
 <br>
 
-## 問題４
+### 問題４
 下記の配列・オブジェクトから「youtube」を取得し、コンソール上に表示して下さい
 ```
 let people2 = [
@@ -79,14 +81,14 @@ let people2 = [
 ```
 <br>
 
-## 問題５
+### 問題５
 for文を用いて、変数「countries」に格納されている配列の中身を一つずつコンソールに表示して下さい
 ```
 let countries = ['Japan', 'China', 'America', 'Spain', 'Germany'];
 ```
 <br>
 
-## 問題６
+### 問題６
 filterメソッドを用いて、変数「words」に格納されている値のうち、  
 7文字以上の単語のみからなる新しい配列を作成し、コンソールに表示させて下さい
 ```
@@ -96,7 +98,7 @@ let words = [
 ```
 <br>
 
-## 問題７
+### 問題７
 下記のルールに沿って、コンソール上に1から100までの数字を出力して下さい
 
 **▼ルール**
@@ -106,3 +108,46 @@ let words = [
 
 **回答イメージ**
 ![fizubazzイメージ](./images/fizubazz.png)
+
+
+## Javascript 応用
+
+### 問題1
+下記の条件を満たす関数を作成してください
+
+- 関数名は「higherPrice」とする
+- 引数名は「targetPrice」とする
+- 商品ごとの小計（単価×個数）が、引数「targetPrice」を超えた商品名のみコンソールに出力する
+
+```
+let items = [
+  { name: 'じゃがいも', price: 50, count: 3 },
+  { name: 'にんじん', price: 60, count: 1 },
+  { name: '豚肉', price: 200, count: 1 },
+  { name: '玉ねぎ', price: 50, count: 2 }
+];
+```
+
+### 問題2 問題3
+index.html記載の内容を参照下さい。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
